@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Spranku
-- 👀 I’m interested in develop games Unreal Engine 5, C++ and Blueprints. Since August 2023, I have been working at DevilGate-Studio on the game Devil Gate, my position is deputy lead of the programming department
-- 🌱 Currently, I have been studying to be an Unreal Engine developer from scratch to middle for more than 2 years. Since January 2024, I have been working for an IT company as a programmer.
-- 💞️ I am looking for opportunities to collaborate with other game studios
+- 👀 I am interested in developing games in Unreal Engine 5, in C++ and drawings. I worked at Devil Gate studio on the game Devil Gate, held the position of deputy head of the programming department.  
+- 🌱 Currently i working at IMTechonologies on the not announced Battle Royale project for the Android platform. My position at work is Lead Unreal Engine C++ Developer.
+- 💞️ I am looking for opportunities to collaborate with other game studios.
 - 📫 How to reach me: tg - @spranku / Email - sprankyeltb@gmail.com
 
 <!---
