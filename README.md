@@ -34,7 +34,7 @@ I love building solid game mechanics, working with complex systems, and shipping
 
 ---
 
-### 🎮 Personal Projects
+### 🎮 Personal Public Projects
 
 | Project | Engine | Description |
 |:---|:---|:---|
