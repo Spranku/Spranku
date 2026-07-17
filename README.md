@@ -81,6 +81,20 @@ I love building solid game mechanics, working with complex systems, and shipping
       <br />
       <a href="https://gitlab.com/sprankyeltb" style="font-weight: bold; text-decoration: none; color: #FC6D26;">GitLab</a>
     </td>
+    <td align="center">
+      <a href="https://www.artstation.com/spranky">
+        <img src="https://cdn.simpleicons.org/artstation/13AFF0" alt="ArtStation" width="50" height="50" style="border-radius: 50%; background: #13AFF0; padding: 8px;" />
+      </a>
+      <br />
+      <a href="https://www.artstation.com/spranky" style="font-weight: bold; text-decoration: none; color: #13AFF0;">ArtStation</a>
+    </td>
+    <td align="center">
+      <a href="https://sketchfab.com/spranky">
+        <img src="https://cdn.simpleicons.org/sketchfab/1CAAD9" alt="Sketchfab" width="50" height="50" style="border-radius: 50%; background: #1CAAD9; padding: 8px;" />
+      </a>
+      <br />
+      <a href="https://sketchfab.com/spranky" style="font-weight: bold; text-decoration: none; color: #1CAAD9;">Sketchfab</a>
+    </td>
   </tr>
 </table>
 
