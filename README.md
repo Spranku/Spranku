@@ -51,52 +51,7 @@ I love building solid game mechanics, working with complex systems, and shipping
 
 ### 🔗 Links & Contacts
 
-<table>
-  <tr>
-    <td align="center">
-      <a href="mailto:sprankyeltb@gmail.com">
-        <img src="https://upload.wikimedia.org/wikipedia/commons/7/7e/Gmail_icon_%282020%29.svg" alt="Email" width="50" height="50" style="border-radius: 50%; background: #EA4335; padding: 8px;" />
-      </a>
-      <br />
-      <a href="mailto:sprankyeltb@gmail.com" style="font-weight: bold; text-decoration: none; color: #EA4335;">sprankyeltb@gmail.com</a>
-    </td>
-    <td align="center">
-      <a href="https://t.me/spranku">
-        <img src="https://upload.wikimedia.org/wikipedia/commons/8/82/Telegram_logo.svg" alt="Telegram" width="50" height="50" style="border-radius: 50%; background: #26A5E4; padding: 8px;" />
-      </a>
-      <br />
-      <a href="https://t.me/spranku" style="font-weight: bold; text-decoration: none; color: #26A5E4;">@spranku</a>
-    </td>
-    <td align="center">
-      <a href="https://spranky.itch.io/">
-        <img src="https://cdn.simpleicons.org/itch.io/FA5C5C" alt="itch.io" width="50" height="50" style="border-radius: 50%; background: #FA5C5C; padding: 8px;" />
-      </a>
-      <br />
-      <a href="https://spranky.itch.io/" style="font-weight: bold; text-decoration: none; color: #FA5C5C;">itch.io</a>
-    </td>
-    <td align="center">
-      <a href="https://gitlab.com/sprankyeltb">
-        <img src="https://upload.wikimedia.org/wikipedia/commons/e/e1/GitLab_logo.svg" alt="GitLab" width="50" height="50" style="border-radius: 50%; background: #FC6D26; padding: 8px;" />
-      </a>
-      <br />
-      <a href="https://gitlab.com/sprankyeltb" style="font-weight: bold; text-decoration: none; color: #FC6D26;">GitLab</a>
-    </td>
-    <td align="center">
-      <a href="https://www.artstation.com/spranky">
-        <img src="https://cdn.simpleicons.org/artstation/13AFF0" alt="ArtStation" width="50" height="50" style="border-radius: 50%; background: #13AFF0; padding: 8px;" />
-      </a>
-      <br />
-      <a href="https://www.artstation.com/spranky" style="font-weight: bold; text-decoration: none; color: #13AFF0;">ArtStation</a>
-    </td>
-    <td align="center">
-      <a href="https://sketchfab.com/spranky">
-        <img src="https://cdn.simpleicons.org/sketchfab/1CAAD9" alt="Sketchfab" width="50" height="50" style="border-radius: 50%; background: #1CAAD9; padding: 8px;" />
-      </a>
-      <br />
-      <a href="https://sketchfab.com/spranky" style="font-weight: bold; text-decoration: none; color: #1CAAD9;">Sketchfab</a>
-    </td>
-  </tr>
-</table>
+<table> <tr> <td align="center"> <a href="mailto:sprankyeltb@gmail.com"> <img src="https://upload.wikimedia.org/wikipedia/commons/7/7e/Gmail_icon_%282020%29.svg" alt="Email" width="50" height="50" style="border-radius: 50%; background: #EA4335; padding: 8px;" /> </a> <br /> <a href="mailto:sprankyeltb@gmail.com" style="font-weight: bold; text-decoration: none; color: #EA4335;">sprankyeltb@gmail.com</a> </td> <td align="center"> <a href="https://t.me/spranku"> <img src="https://upload.wikimedia.org/wikipedia/commons/8/82/Telegram_logo.svg" alt="Telegram" width="50" height="50" style="border-radius: 50%; background: #26A5E4; padding: 8px;" /> </a> <br /> <a href="https://t.me/spranku" style="font-weight: bold; text-decoration: none; color: #26A5E4;">@spranku</a> </td> <td align="center"> <a href="https://discord.gg/Kusnvj2G"> <img src="https://cdn.simpleicons.org/discord/5865F2" alt="Discord" width="50" height="50" style="border-radius: 50%; background: #5865F2; padding: 8px;" /> </a> <br /> <a href="https://discord.gg/Kusnvj2G" style="font-weight: bold; text-decoration: none; color: #5865F2;">Discord</a> </td> <td align="center"> <a href="https://spranky.itch.io/"> <img src="https://cdn.simpleicons.org/itch.io/FA5C5C" alt="itch.io" width="50" height="50" style="border-radius: 50%; background: #FA5C5C; padding: 8px;" /> </a> <br /> <a href="https://spranky.itch.io/" style="font-weight: bold; text-decoration: none; color: #FA5C5C;">itch.io</a> </td> <td align="center"> <a href="https://gitlab.com/sprankyeltb"> <img src="https://upload.wikimedia.org/wikipedia/commons/e/e1/GitLab_logo.svg" alt="GitLab" width="50" height="50" style="border-radius: 50%; background: #FC6D26; padding: 8px;" /> </a> <br /> <a href="https://gitlab.com/sprankyeltb" style="font-weight: bold; text-decoration: none; color: #FC6D26;">GitLab</a> </td> <td align="center"> <a href="https://www.artstation.com/spranky"> <img src="https://cdn.simpleicons.org/artstation/13AFF0" alt="ArtStation" width="50" height="50" style="border-radius: 50%; background: #13AFF0; padding: 8px;" /> </a> <br /> <a href="https://www.artstation.com/spranky" style="font-weight: bold; text-decoration: none; color: #13AFF0;">ArtStation</a> </td> <td align="center"> <a href="https://sketchfab.com/spranky"> <img src="https://cdn.simpleicons.org/sketchfab/1CAAD9" alt="Sketchfab" width="50" height="50" style="border-radius: 50%; background: #1CAAD9; padding: 8px;" /> </a> <br /> <a href="https://sketchfab.com/spranky" style="font-weight: bold; text-decoration: none; color: #1CAAD9;">Sketchfab</a> </td> </tr> </table>
 
 ---
 
