@@ -39,7 +39,7 @@ I love building solid game mechanics, working with complex systems, and shipping
 | Project | Engine | Description |
 |:---|:---|:---|
 | [**VS**](https://github.com/Spranku/VS) | Unreal Engine 4 | First person shooter with co-op |
-| [**TestTask**](https://github.com/Spranku/TestTask) | Unreal Engine 4 | First-person exploration with multi-stage scenario & error-checking |
+| [**FPV-Exploration**](https://github.com/Spranku/TestTask) | Unreal Engine 4 | First-person exploration with multi-stage scenario & error-checking |
 | [**BlackJack**](https://github.com/Spranku/BlackJack) | Unreal Engine 4 | Blackjack card game |
 | [**TPS**](https://github.com/Spranku/TPS) | Unreal Engine 5 | TopDown Shooter |
 | [**ArkanoidGame**](https://github.com/Spranku/ArkanoidGame) | Unreal Engine 5 | Arkanoid clone |
