@@ -46,6 +46,7 @@ I love building solid game mechanics, working with complex systems, and shipping
 | [**The Clay**](https://github.com/Spranku/UProject/tree/Platformer.PartIV) | Unity | 2D Platformer with dialog system & AI |
 | [**Save the Village**](https://github.com/Spranku/UProject/tree/SaveTheVillage) | Unity | Survival strategy with economy system |
 | [**Wild Ball**](https://github.com/Spranku/UProject/tree/Textures%26Materials) | Unity | Physics arcade with realistic simulation |
+| [**Lunar Delivery Simulator**](https://github.com/Spranku/LunarDeliverySimulator) | Unity | Strategy/Management game about delivering cargo on the Moon |
 
 ---
 
